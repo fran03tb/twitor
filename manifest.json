@@ -35,6 +35,7 @@
         {
             "src": "img/icons/icon-192x192.png",
             "type": "image/png",
+            "pourpose": "any maskable",
             "sizes": "192x192"
         },
         {
